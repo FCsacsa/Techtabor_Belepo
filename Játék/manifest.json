@@ -1,0 +1,12 @@
+{
+  "name": "Terület foglaló",
+  "description": "A játékom a Táborba.A játék célja: minél több 1X1-es négyzetet bezárni.",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["aaa.js"]
+    }
+  },
+  "icons": { "16": "game-16.png", "128": "game-128.png" }
+}
